@@ -60,8 +60,5 @@ I specialize in building scalable and modern web applications using **Next.js**,
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atharvsinh-codez&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rathore-abhishek&theme=dark)](https://git.io/streak-stats)
 
----
-
-⭐️ From [Abhishek Rathore](https://github.com/Atharvsinh-codez)
