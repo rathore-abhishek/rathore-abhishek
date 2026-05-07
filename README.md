@@ -8,7 +8,7 @@ I specialize in building scalable and modern web applications using **Next.js**,
 
 ## 🌍 About Me
 - 📍 From Gujarat, India  
-- 🖥️ Portfolio: [abhishekz.vercel.app](http://abhishekz.vercel.app)  
+- 🖥️ Portfolio: [abhiishekrathore.com](http://abhiishekrathore.com)  
 - ✉️ Email: rathore.abhishekk@gmail.com  
 - 🤝 Open to collaborate on **Web Apps & Tech Events**  
 - ⚡ Passionate about building impactful products  
