@@ -1,1 +1,3 @@
-[![Things I Believe In](https://www.abhiishekrathore.com/opengraph-image.png)](https://www.abhiishekrathore.com/blogs/things-i-believe-in)
+<a href="https://www.abhiishekrathore.com/blogs/things-i-believe-in" target="_blank" rel="noopener noreferrer">
+  <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/3fefe0af-0536-4247-a3c3-d097e940188f" />
+</a>
